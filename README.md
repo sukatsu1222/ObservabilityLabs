@@ -20,8 +20,8 @@ Dynatraceが主催するオブザーバビリティ＆AIOps体感イベントの
 
 ## ハンズオンガイド
 
-1. [環境準備](https://github.com/sukatsu1222/ObsavabilityLab/lab0/README.md)
-1. [Dynatraceの基本](https://github.com/sukatsu1222/ObsavabilityLab/lab1/README.md)
-1. [コンテナ環境のオブザーバビリティ](https://github.com/sukatsu1222/ObsavabilityLab/lab2/README.md)
-1. [SLOの活用](https://github.com/sukatsu1222/ObsavabilityLab/lab3/README.md)
-1. [Davis AIによる根本原因の特定](https://github.com/sukatsu1222/ObsavabilityLab/lab4/README.md)
+1. [環境準備](https://github.com/sukatsu1222/ObservabilityLabs/blob/main/lab0/README.md)
+1. [Dynatraceの基本](https://github.com/sukatsu1222/ObservabilityLabs/blob/main/lab1/README.md)
+1. [コンテナ環境のオブザーバビリティ](https://github.com/sukatsu1222/ObservabilityLabs/blob/main/lab2/README.md)
+1. [SLOの活用](https://github.com/sukatsu1222/ObservabilityLabs/blob/main/lab3/README.md)
+1. [Davis AIによる根本原因の特定](https://github.com/sukatsu1222/ObservabilityLabs/blob/main/lab4/README.md)
