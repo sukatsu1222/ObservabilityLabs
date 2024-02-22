@@ -204,7 +204,7 @@ Dockerモニタリングのために、Dockerイメージの変更、実行コ�
 
 ![image](img/services-list.png)
 
-`frontend`サービスをクリックします。複数ある場合は、`monolith-forntend`と記載がある方を選びます。
+`frontend`サービスをクリックします。複数ある場合は、`monolith-frontend`と記載がある方を選びます。
 
 サービスページが表示され、この特定のサービスに関する情報が表示されます。
 
@@ -218,8 +218,8 @@ Dockerモニタリングのために、Dockerイメージの変更、実行コ�
 1. Service overview画面では応答時間や失敗したリクエストの件数と割合、リクエストの件数を確認することができます。
 1. Topologyではこのサービスがどのサービスを呼び出しているのか確認することができます。
 ![image](img/service-topology.png)
-1. Distrbuted traces このサービスに関連する分散トレースを確認することができます。
-![imgae](img/Distributed-traces.png)
+1. Distributed traces このサービスに関連する分散トレースを確認することができます。
+![image](img/Distributed-traces.png)
 
 **Key requests/endpoints**セクションにある`View all request details`ボタンをクリックしてリクエストの詳細を確認します。
 ![image](img/all-request-details.png)
