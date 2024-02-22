@@ -22,7 +22,7 @@ AWSアカウントについてはAWS Workshop studioサービスを通じて提�
 
 ![image](img/send-passcode.png)
 
-4. しばらくすると登録したメールアドレスにpasscodeが届くので、それを入力し,`Sign in`ボタンをクリックします。
+4. しばらくすると登録したメールアドレスにpasscodeが届くので、それを入力し`Sign in`ボタンをクリックします。
 
 ![image](img/enter-passcode.png)
 
